@@ -2,6 +2,6 @@
 
 docker file codes
 
-this is first commit for docker file repo  
+this is first commit forthe docker file repo  
 
-hello world 
+hello
